@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@aws-amplify/cli": "^12.3.0",
+    "@aws-amplify/ui-vue": "^3.1.25",
     "aws-amplify": "^5.3.8"
   }
 }
